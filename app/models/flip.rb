@@ -1,0 +1,2 @@
+class Flip < ApplicationRecord
+end
